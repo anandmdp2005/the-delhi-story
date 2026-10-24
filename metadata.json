@@ -1,0 +1,6 @@
+{
+  "name": "The Delhi Story - Premium Restaurant Patna",
+  "description": "Premium fine dining restaurant website for The Delhi Story at City Center Mall, Patna, featuring authentic North Indian and multi-cuisine delicacies, table reservations, directions, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
